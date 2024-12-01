@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "124138853675",
+    "project_id": "fluttertest-5ee8a",
+    "storage_bucket": "fluttertest-5ee8a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124138853675:android:b5ecbb7035f2e44d36216e",
+        "android_client_info": {
+          "package_name": "com.example.flutter_apis_pagination"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB16bfzasWN9dz0nu0smi4OWjOUbixhESw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
